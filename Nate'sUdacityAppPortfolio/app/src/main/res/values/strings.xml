@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nate\'s Udacity App Portfolio</string>
+    <string name="action_settings">Settings</string>
+    <string name="portfolio_header_text">Please select an app to launch</string>
+</resources>
