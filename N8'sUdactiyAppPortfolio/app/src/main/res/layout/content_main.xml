@@ -21,7 +21,7 @@
             android:text="@string/portfolio_header_text"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:gravity="center_horizontal"
-            android:paddingBottom="16dp" />
+            android:paddingBottom="@dimen/textview_large_vertical_margin" />
 
         <Button
             android:layout_width="@dimen/portfolio_button_width"
